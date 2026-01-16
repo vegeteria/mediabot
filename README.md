@@ -8,9 +8,9 @@ A fully-featured Telegram bot for managing media downloads on a Linux server.
 
 | File | Purpose |
 |------|---------|
-| [media_bot.py] | Main bot script (450+ lines) |
-| [requirements.txt] | Python dependencies |
-| [.env.example] | Environment template |
+| media_bot.py | Main bot script (450+ lines) |
+| requirements.txt | Python dependencies |
+| .env.example | Environment template |
 
 ---
 
